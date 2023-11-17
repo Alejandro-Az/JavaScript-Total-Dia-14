@@ -32,6 +32,10 @@ Por último, mediante el evento onClick del botón vamos a realizar la comprobac
 Vamos a llamar a una función, que va a comparar la variable del primer hook (el ingreso del jugador) 
 con la variable del segundo hook (el número aleatorio) y mostrara en un alert si hubo coincidencia o no.
 
+### Pantalla de la aplicación
+![5123](https://github.com/Alejandro-Az/JavaScript-Total-Dia-14/assets/105530752/045438ff-f767-4f12-bf2e-e086780b5292)
+
+
 Luego de esto, no olvides de llamar a la función de actualización del segundo hook para generar un nuevo número aleatorio.
 
 Cuando tus componentes estén listos, en tu archivo App.js deberás importar y llamar a cada uno de ellos. 
